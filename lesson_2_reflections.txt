@@ -23,3 +23,9 @@ It will be helpful for experimental features, for language versions
 How do the diagrams help you visualize the branch structure?
 
 We can see by this way the history of the commits with its differents branches
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is to make modifications introduced by the first branch available in the second branch.
+Because the two branches become one
