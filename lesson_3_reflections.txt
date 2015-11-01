@@ -15,3 +15,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	Yes, it would be easier since we can see contributions faster. The contributors can be very at a great distance from us.
 	But I hope that we can protect the master branch, and allow contributors to pull to another branch but not the master...
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Branches to make some tests, to add some features
+	Master to permanently save changes
